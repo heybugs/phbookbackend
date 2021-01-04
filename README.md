@@ -7,3 +7,7 @@
 ```
 npm run dev
 ```
+
+# heroku adress
+
+[project](https://fullstack-me.herokuapp.com/)
