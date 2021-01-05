@@ -10,4 +10,4 @@ npm run dev
 
 # heroku adress
 
-[project](https://fullstack-me.herokuapp.com/)
+[在线应用的链接](https://fullstack-me.herokuapp.com/)
