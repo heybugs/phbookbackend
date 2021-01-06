@@ -17,7 +17,7 @@ POST  http://127.0.0.1:3001/api/persons/ HTTP/1.1
 Content-Type: application/json
 
 {
-  "name":"zhangsan12",
-  "number":"020-11111"
+  "name":"z2",
+  "number":"020-1"
 }
 
